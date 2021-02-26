@@ -11,10 +11,11 @@ IG fhuang_0128 歡迎私訊
 #include <stdio.h>
 int main()
 {
-
 printf("Hello World");
-
+return 0;
 }
+```
+
 
 ## 好玩的圖
 
