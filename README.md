@@ -5,6 +5,14 @@
 ## 自我介紹
 IG fhuang_0128 歡迎私訊
 
+```C
+#include <stdio.h>
+int main()
+{
+  printf("Hello World\n");
+}
+```
+
 ## 興趣
 喜歡打球，玩遊戲
 ```C
