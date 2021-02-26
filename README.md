@@ -7,6 +7,14 @@ IG fhuang_0128 歡迎私訊
 
 ## 興趣
 喜歡打球，玩遊戲
+```C
+#include <stdio.h>
+int main()
+{
+
+printf("Hello World");
+
+}
 
 ## 好玩的圖
 
